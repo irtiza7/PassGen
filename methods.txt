@@ -1,0 +1,13 @@
+open types: r, w, a, r+, rb, wb
+
+f.open()
+f.close()
+
+f.read()
+f.readline()
+f.readlines()
+
+f.tell()
+f.seek()
+
+f.write()
