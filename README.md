@@ -13,4 +13,3 @@ Run the script with "python main.py" in the terminal or an IDE. The rest is quit
 **TODO:**
 1. Would still like to encrypt the passwords for an extra layer of protection.
 2. Want to add a GUI so the app can be used without typing commands and so on.
-3. Want to add a feature to query database with only Account Type.
