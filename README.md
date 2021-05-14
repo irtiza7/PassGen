@@ -15,6 +15,7 @@ python main.py
 * The rest is quite intuitive.
 
 **TODO:**
+* Add a master password option, so the app can be a bit more secure and thee user can view all his data with only one password.
 * Would still like to encrypt the passwords for an extra layer of protection.
 * Want to add a GUI so the app can be used without typing commands and so on.
 * Want to add somee more options related to credentials such as app-name, URL, etc.
