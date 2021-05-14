@@ -15,5 +15,6 @@ python main.py
 * The rest is quite intuitive.
 
 **TODO:**
-1. Would still like to encrypt the passwords for an extra layer of protection.
-2. Want to add a GUI so the app can be used without typing commands and so on.
+* Would still like to encrypt the passwords for an extra layer of protection.
+* Want to add a GUI so the app can be used without typing commands and so on.
+* Want to add somee more options related to credentials such as app-name, URL, etc.
